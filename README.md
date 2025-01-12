@@ -1,8 +1,8 @@
-# a.e.i.o.u
+# h.o.p.e
 
 <p align="center"><img src="assets/emotion.png" width="100" height="100"></p>
 
-### 🌟 aeiou (An Emotion Invigilator Only for You) is a web application that gamifies 💻 stress/anxiety/depression management in an actionable manner to provide peace of mind.
+### 🌟 hope (Help Overcome Personal Emotions) is a web application that gamifies 💻 stress/anxiety/depression management in an actionable manner to provide peace of mind.
  
 - The main focus of this web app is to not only make people aware of their emotions but also get them to take actions to take control of their emotions through a short game quiz where they can select a task which needs to be completed before the day ends.
 
@@ -20,49 +20,34 @@
 
 ### Front Page
 
-<img src="assets/Screenshot (1159).png" width="480" height="270">
+<img src="" width="480" height="270">
 
 ### Home Page
 
-<img src="assets/Screenshot (1162).png" width="480" height="270">
-
-<img src="assets/Screenshot (1163).png" width="480" height="270">
-
 ### Sign In Page
 
-<img src="assets/Screenshot (1160).png" width="480" height="270">
 
 ### Sign Up Page
 
-<img src="assets/Screenshot (1161).png" width="480" height="270">
+
 
 ### Emotion Quiz
 
-<img src="assets/Screenshot (1164).png" width="480" height="270">
 
 ### Task Quiz
 
-<img src="assets/Screenshot (1165).png" width="480" height="270">
 
 ### Reward Quiz
 
-<img src="assets/Screenshot (1166).png" width="480" height="270">
 
 ### Accept Task
 
-<img src="assets/Screenshot (1167).png" width="480" height="270">
 
 ### Home Page after adding Events
 
-<img src="assets/Screenshot (1168).png" width="480" height="270">
-
-<img src="assets/Screenshot (1169).png" width="480" height="270">
-
-<img src="assets/Screenshot (1170).png" width="480" height="270">
 
 ### Reward Page
 
-<img src="assets/Screenshot (1171).png" width="480" height="270">
 
 ## Technology Stack
 
