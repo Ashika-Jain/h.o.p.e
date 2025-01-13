@@ -5,6 +5,8 @@ import Auth from "./components/Auth/Auth";
 import Home from "./components/Home/Home";
 import Quiz from "./components/Quiz/Quiz";
 import Reward from "./components/Events/Reward/Reward";
+import Chatbot from "./components/Chatbot/Chatbot";
+import 'font-awesome/css/font-awesome.min.css';
 
 const App = () => {
   return (
@@ -16,6 +18,7 @@ const App = () => {
         <Route path="/auth" component={Auth} exact />
         <Route path="/quiz" component={Quiz} exact />
         <Route path="/reward/:id" component={Reward} exact />
+        <Route path="/chat" component={Chatbot} exact />
       </Switch>
     </BrowserRouter>
   );

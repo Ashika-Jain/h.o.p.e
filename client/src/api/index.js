@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API = axios.create({ baseURL: "https://h-o-p-e.onrender.com"});
+const API = axios.create({ baseURL: "http://localhost:5000/"});
 //below function happens on every request
 API.interceptors.request.use((req) => {
   if (localStorage.getItem("profile")) {
